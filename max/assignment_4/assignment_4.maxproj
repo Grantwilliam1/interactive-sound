@@ -2,8 +2,8 @@
 	"name" : "assignment_4",
 	"version" : 1,
 	"creationdate" : 3811948703,
-	"modificationdate" : 3811948769,
-	"viewrect" : [ 25.0, 119.0, 300.0, 500.0 ],
+	"modificationdate" : 3813596832,
+	"viewrect" : [ 0.0, 99.0, 1512.0, 849.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -15,6 +15,14 @@
 				"local" : 1,
 				"toplevel" : 1
 			}
+
+		}
+,
+		"media" : 		{
+
+		}
+,
+		"code" : 		{
 
 		}
 
